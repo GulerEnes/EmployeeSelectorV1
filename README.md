@@ -1,9 +1,9 @@
 # EmployeeSelectorV1
 Desktop version of a kind of Freelancer App Demo
 
-========================
+
 BUILD OUTPUT DESCRIPTION
-========================
+
 
 When you build an Java application project that has a main class, the IDE
 automatically copies all of the JAR
