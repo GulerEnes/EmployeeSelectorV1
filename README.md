@@ -4,6 +4,8 @@ Desktop version of a kind of Freelancer App Demo
 
 BUILD OUTPUT DESCRIPTION
 
+Firstly download the takeFoto.exe from this link:
+	https://drive.google.com/file/d/13KZ78TFZeUGatCcnRXDkSp9RJ_51B_Rw/view?usp=sharing
 
 When you build an Java application project that has a main class, the IDE
 automatically copies all of the JAR
